@@ -1,3 +1,4 @@
 t*.*
 *.stackdump
 *.exe
+*.c
